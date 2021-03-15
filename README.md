@@ -1,4 +1,4 @@
-# Web-Application-Scan-Report-Download-Automated-Process-in-Qualys
+# Qualys Web-Application-Scan-Report-Download-Automated-Process
 This repository contains the python file which automate Web Application Scan Report Download Process.
 
 The script contains three process for Downloading the files:
@@ -14,4 +14,8 @@ The script contains three process for Downloading the files:
       
 The reason for creating this script is because I have went through various repos for Qualys API integration and have found none of them useful for sucessfully connecting to the API, and also this is a full fleged complete Download system for those needed.
 
-Note:- Kindly change the API URL as per the Qualys server address for making API Calls. This can be found in page no - 13 from the following link https://www.qualys.com/docs/qualys-was-api-user-guide.pdf
+Note:- 
+
+  1.Kindly change the API URL as per the Qualys server address for making API Calls. This can be found in page no - 13 from the following link https://www.qualys.com/docs/qualys-      was-api-user-guide.pdf
+  2.Since the script uses the excel file for reading the URL therefore it is mandatory to use the excel file with the exact naming convention.
+
