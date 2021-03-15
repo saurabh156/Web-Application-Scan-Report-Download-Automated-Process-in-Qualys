@@ -17,5 +17,6 @@ The reason for creating this script is because I have went through various repos
 Note:- 
 
   1.Kindly change the API URL as per the Qualys server address for making API Calls. This can be found in page no - 13 from the following link https://www.qualys.com/docs/qualys-      was-api-user-guide.pdf
+  
   2.Since the script uses the excel file for reading the URL therefore it is mandatory to use the excel file with the exact naming convention.
 
